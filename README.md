@@ -1,6 +1,6 @@
 # Concepts of Statistics implemented in Python
 
-## Objective: To demonstrate various statiscal concepts by directly using statiscal formulas in the python program without any statistical package.
+## Objective: To demonstrate various statiscal concepts using python program and statistical package.
 ### Various concepts covered are as follow:
 #### Types of variables:
     - Categorical, Qualitative:
@@ -40,3 +40,6 @@
     - Significant value, alpha, Type-I Error, True Negative
     - Type-II Error, beta, False Positive, Accepting the False
     - Power Curve - Rejecting the False
+
+  - Regression
+  - Time-series Analysis
