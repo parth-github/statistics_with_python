@@ -28,7 +28,7 @@
         - F Distribution
     - For Discrete Random Variable:-
         - Probability Mass Function (PMF)
-        - Binomial Distribution
+        - [Binomial Distribution](https://replit.com/@snighdo/Statistics-with-Python#binomial_distribution.py)
         - Poisson's Distribution
         - Pascal Distribution
     

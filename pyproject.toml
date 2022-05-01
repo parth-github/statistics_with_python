@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "repl_python3_MapFlarMapDemo"
+name = "repl_Statistics-with-Python"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Smriti linuxriti@gmail.com"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
